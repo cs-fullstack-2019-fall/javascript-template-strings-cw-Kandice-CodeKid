@@ -23,14 +23,14 @@
 
 
 //Variables for name, id, and address created to reflect Kevin, 2112, and Memphis,TN.
-// let my_name = 'Kevin';
-// let my_id = '2112';
-// let my_address = 'Memphis, TN';
-//
-// let my_template_string = `My name is ${my_name}
-// My id is ${my_id}
-// My address is ${my_address}`;
-// console.log(my_template_string);
+let my_name = 'Kevin';
+let my_id = '2112';
+let my_address = 'Memphis, TN';
+
+let my_template_string = `My name is ${my_name}
+My id is ${my_id}
+My address is ${my_address}`;
+console.log(my_template_string);
 //
 
 
@@ -51,11 +51,11 @@
 
 
 
-// var contestant = "1_M_l337!";
-// var score = "9001";
-// console.log(`Congratulatins ${contestant}!!,
-// Your score is ${score}.`);
-//
+var contestant = "1_M_l337!";
+var score = "9001";
+console.log(`Congratulatins ${contestant}!!,
+Your score is ${score}.`);
+
 
 
 
